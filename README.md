@@ -1,2 +1,2 @@
 # LearnJavaWebApp
-I just wanna learn Java, for Crist's sake!
+I just wanna learn Java, for Christ's sake!
